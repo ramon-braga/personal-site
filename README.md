@@ -7,8 +7,6 @@ This is a simple personal website project created by myself, Ramon Braga. It sho
 - [Description](#description)
 - [Project Structure](#project-structure)
 - [Responsiveness](#responsiveness)
-- [Usage](#usage)
-- [License](#license)
 
 ## Description
 
